@@ -12,7 +12,8 @@ I also found the software engineer's secret weapon......   When you get stuck wi
 
 I personally would just take my dogs for a walk. A LOT OF WALKS if I'm being honest, but I would always find a way or the answer would pop in my head urging me to run home to test my theory out.
 
-I'm sure my dogs didn't mind either.
+This journey into discovering my passion for coding has been very exciting so far. Two and a half years into it and I'm doing things I didn't think I was capable of when I first sat down and looked at a page full of letters and symbols not having the slightest clue what any of it meant.
 
+I'm sure my dogs don't mind either..
 
 Thanks for reading!
