@@ -1,3 +1,6 @@
+Hosted live here; check it out!!  https://codyjohnson-todayilearned.netlify.app/
+
+
 Full stack app project, 'Today I Learned', showcasing HTML, responsive CSS, Javascript, React, online database and API with Supabase.
 
 
